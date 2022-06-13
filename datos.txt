@@ -1,0 +1,4 @@
+
+GAMMA: Eduardo Andres Sosa Segovia
+IP: 192.168.100.53
+HORA: 16:33
